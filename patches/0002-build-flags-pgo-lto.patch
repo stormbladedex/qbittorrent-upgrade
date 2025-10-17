@@ -1,0 +1,5 @@
+diff --git a/CMakeLists.txt b/CMakeLists.txt
+--- a/CMakeLists.txt
++++ b/CMakeLists.txt
+@@ +12,6 @@
++ option(USE_LTO "Enable Link Time Optimization" ON)

@@ -1,0 +1,5 @@
+diff --git a/src/base/preferences.cpp b/src/base/preferences.cpp
+--- a/src/base/preferences.cpp
++++ b/src/base/preferences.cpp
+@@ +42,7 @@
++ // Increased default disk cache size for performance
